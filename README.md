@@ -45,7 +45,7 @@ Clone the repository and compile any phase using a standard C++ compiler (GCC / 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<YourUsername>/Banking-and-ATM-System-Cpp.git
+git clone [https://github.com/](https://github.com/)Ahmad2OO7/Banking-and-ATM-System-Cpp.git
 
 # Navigate to Phase 3 (Full System)
 cd Banking-and-ATM-System-Cpp/03-Users-and-Permissions
