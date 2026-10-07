@@ -51,7 +51,7 @@ git clone [https://github.com/](https://github.com/)<YourUsername>/Banking-and-A
 cd Banking-and-ATM-System-Cpp/03-Users-and-Permissions
 
 # Compile with g++
-g++ -std=c++11 Bank_Phase3.cpp -o BankSystem
+g++ -std=c++11 "Bank 3.cpp" -o BankSystem
 
 # Run the executable
 ./BankSystem
