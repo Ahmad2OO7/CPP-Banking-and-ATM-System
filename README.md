@@ -55,3 +55,12 @@ g++ -std=c++11 "Bank 3.cpp" -o BankSystem
 
 # Run the executable
 ./BankSystem
+```
+
+---
+
+## 🔑 Default Credentials (Phase 3)
+
+| Username | Password | Permissions |
+| :--- | :--- | :--- |
+| `Admin` | `1234` | Full Access (`-1`) |
